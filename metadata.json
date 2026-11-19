@@ -1,0 +1,6 @@
+{
+  "name": "병자호란 1636: 겨울 산성의 기록",
+  "description": "초등학교 5학년 사회(역사) 성취기준에 맞춰 병자호란(1636~1637)의 배경, 남한산성 항전, 삼전도의 굴욕, 전쟁 이후 백성·국토·문화유산의 피해를 체험하는 인터랙티브 역사 학습 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
